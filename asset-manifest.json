@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contact_Details_sample/static/css/main.929f0bef.css",
+    "main.js": "/Contact_Details_sample/static/js/main.30bf4da3.js",
+    "index.html": "/Contact_Details_sample/index.html",
+    "main.929f0bef.css.map": "/Contact_Details_sample/static/css/main.929f0bef.css.map",
+    "main.30bf4da3.js.map": "/Contact_Details_sample/static/js/main.30bf4da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.929f0bef.css",
+    "static/js/main.30bf4da3.js"
+  ]
+}
